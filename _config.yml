@@ -12,7 +12,7 @@
 #    `--'   `----''--'   '--' `--'
 
 
-
+remote_theme : kitian616/jekyll-TeXt-theme
 
 ## => Site Settings
 ##############################
